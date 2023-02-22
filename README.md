@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Alex. 👋
+
+* I'm a Full Stack Web Developer student.
+* My speciality is front end, specifically CSS and SASS.
+* I'm currently learning about React.js
 
 <!--
 **alexander1262/alexander1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
