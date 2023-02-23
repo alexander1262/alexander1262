@@ -17,7 +17,9 @@
  Currently learning about React.js
     </p>
     
- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={alexander1262}
+<p align='center'>    
+<a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexander1262&theme=dark" width="350"></a>
+</p>
 <!--
 **alexander1262/alexander1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
