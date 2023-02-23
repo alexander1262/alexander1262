@@ -1,5 +1,8 @@
 ### Hi there, I'm Alex. 👋
 
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![linkedin](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
 * I'm a Full Stack Web Developer student.
 * My speciality is front end, specifically CSS and SASS.
 * I'm currently learning about React.js
