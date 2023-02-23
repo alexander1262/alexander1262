@@ -16,6 +16,8 @@
  My speciality is front end, specifically CSS and SASS.<br>
  Currently learning about React.js
     </p>
+    
+ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={alexander1262}
 <!--
 **alexander1262/alexander1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
