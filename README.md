@@ -2,7 +2,7 @@
   Hi there, I'm Alex.👋
 </h1>
 
-<p align='center>
+<p align='center'>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/alexander-weiss-571356174/">
