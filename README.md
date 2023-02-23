@@ -12,9 +12,9 @@
 
 
 <p align="center">
- Full Stack Web Developer student.
- My speciality is front end, specifically CSS and SASS.
- Currently learning about React.js
+ Full Stack Web Developer student.  
+ My speciality is front end, specifically CSS and SASS.  
+ Currently learning about React.js  
     </p>
 <!--
 **alexander1262/alexander1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
