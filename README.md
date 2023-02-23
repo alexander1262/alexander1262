@@ -8,8 +8,9 @@
 <a href="https://www.linkedin.com/in/alexander-weiss-571356174/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-          
-          </p>
+</p>
+
+
 <p align="center">
  Full Stack Web Developer student.
  My speciality is front end, specifically CSS and SASS.
