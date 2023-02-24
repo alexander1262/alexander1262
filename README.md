@@ -13,7 +13,7 @@
 
 <p align="center">
  Full Stack Web Developer student.<br>
- My speciality is front end, specifically CSS and SASS.<br>
+ I love working with front end, specifically CSS and SASS.<br>
  Currently learning about React.js
     </p>
     
