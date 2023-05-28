@@ -4,7 +4,7 @@
 
 <p align='center'>
 
-<a href="https://alexander1262.github.io/React-Portfolio/](https://www.alexanderweissportfolio.com/" target="_blank">
+<a href="https://www.alexanderweissportfolio.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Portfolio-yellowgreen?style=for-the-badge&logo=appveyor" />
   </a>
 <a href="https://www.linkedin.com/in/alexander-weiss-571356174/" target="_blank">
